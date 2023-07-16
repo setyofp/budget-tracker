@@ -1,0 +1,20 @@
+.top-navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+top-app-bar {
+  padding: 8px 16px;
+}
+
+main {
+  margin-top: 40px;
+  border-radius: 32px;
+}
+
+bottom-app-bar {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
