@@ -1,1 +1,0 @@
-{"version":3,"file":"bottom-app-bar.model.d.ts","sourceRoot":"","sources":["../../../src/components/bottom-app-bar/bottom-app-bar.model.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,OAAO;IACtB,KAAK,EAAE,MAAM,CAAC;IACd,IAAI,EAAE,SAAS,CAAC;IAChB,QAAQ,EAAE,OAAO,CAAC;CACnB;AAED,UAAU,SAAS;IACjB,OAAO,EAAE,MAAM,CAAC;IAChB,IAAI,EAAE,MAAM,CAAC;CACd;AAED,eAAO,MAAM,KAAK,EAAE,OAAO,EAyB1B,CAAC"}
